@@ -6,7 +6,7 @@ import '../../../core/global_functions.dart';
 import '../../model/weather.dart';
 
 class WeatherApi {
-  static const _apiKeyWeather = your API Key ;
+  static const _apiKeyWeather = 'your API Key';
   static const _baseUrl = 'https://api.openweathermap.org/data/2.5/';
 
   Future<Weather> fetchWeatherByLocation({

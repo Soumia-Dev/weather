@@ -1,8 +1,8 @@
+put your _apiKeyWeather in domain/data/remote/weather_api.dart
 
 🌦 Weather App-------------------------------------------------------------
 
 a weather app build with flutter using  API,Hive, Bloc for state management and MVVM for clean architecture .
-
 
 ✨ Features---------------------------------------------------------------
     📍 Current Weather by Location
